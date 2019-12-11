@@ -1,0 +1,6 @@
+C:\Users\Ali Özdemir\source\repos\OdevDongulerApp\OdevDongulerApp\bin\Debug\OdevDongulerApp.exe.config
+C:\Users\Ali Özdemir\source\repos\OdevDongulerApp\OdevDongulerApp\bin\Debug\OdevDongulerApp.exe
+C:\Users\Ali Özdemir\source\repos\OdevDongulerApp\OdevDongulerApp\bin\Debug\OdevDongulerApp.pdb
+C:\Users\Ali Özdemir\source\repos\OdevDongulerApp\OdevDongulerApp\obj\Debug\OdevDongulerApp.csprojAssemblyReference.cache
+C:\Users\Ali Özdemir\source\repos\OdevDongulerApp\OdevDongulerApp\obj\Debug\OdevDongulerApp.exe
+C:\Users\Ali Özdemir\source\repos\OdevDongulerApp\OdevDongulerApp\obj\Debug\OdevDongulerApp.pdb
